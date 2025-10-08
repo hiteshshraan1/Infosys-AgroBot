@@ -1,0 +1,280 @@
+{
+    "tomato_powdery_mildew": {
+        "crop": {
+            "en": "Tomato",
+            "hi": "Tomato",
+            "pa": "Tomato"
+        },
+        "name": {
+            "en": "Powdery Mildew",
+            "hi": "Powdery Mildew",
+            "pa": "Powdery Mildew"
+        },
+        "keywords": {
+            "en": [
+                "white",
+                "ashy",
+                "powder",
+                "spots",
+                "patches",
+                "fungus"
+            ],
+            "hi": [
+                "सफ़ेद",
+                "राख",
+                "पाउडर",
+                "धब्बे",
+                "पैच",
+                "फफूंद"
+            ],
+            "pa": [
+                "ਚਿੱਟਾ",
+                "ਸੁਆਹ",
+                "ਪਾਊਡਰ",
+                "ਧੱਬੇ",
+                "ਪੈਚ",
+                "ਉੱਲੀ",
+                "ਪੱਤਾ"
+            ]
+        },
+        "solution": {
+            "en": "Apply sulfur-based fungicide, improve air circulation, and remove affected leaves",
+            "hi": "सल्फर आधारित फफूंदनाशक का छिड़काव करें, हवा का प्रवाह सुधारें, और प्रभावित पत्तियों को हटा दें",
+            "pa": "ਸਲਫਰ-ਅਧਾਰਤ ਉੱਲੀਨਾਸ਼ਕ ਦੀ ਵਰਤੋਂ ਕਰੋ, ਹਵਾ ਦੇ ਗੇੜ ਵਿੱਚ ਸੁਧਾਰ ਕਰੋ, ਅਤੇ ਪ੍ਰਭਾਵਿਤ ਪੱਤਿਆਂ ਨੂੰ ਹਟਾ ਦਿਓ"
+        },
+        "image": "data/disease_images\\Screenshot 2025-10-05 170519.png"
+    },
+    "tomato_early_blight_": {
+        "crop": {
+            "en": "Tomato",
+            "hi": "Tomato",
+            "pa": "Tomato"
+        },
+        "name": {
+            "en": "Early Blight ",
+            "hi": "Early Blight ",
+            "pa": "Early Blight "
+        },
+        "keywords": {
+            "en": [
+                "target",
+                "rings",
+                "concentric",
+                "brown",
+                "spots",
+                "yellow",
+                "halo"
+            ],
+            "hi": [
+                "लक्ष्य",
+                "छल्ले",
+                "संकेंद्रित",
+                "भूरे",
+                "धब्बे",
+                "पीला",
+                "प्रभामंडल"
+            ],
+            "pa": [
+                "ਨਿਸ਼ਾਨਾ",
+                "ਛਲੇ",
+                "ਕੇਂਦਰੀ",
+                "ਭੂਰੇ",
+                "ਧੱਬੇ",
+                "ਪੀਲਾ",
+                "ਹੇਲੋ"
+            ]
+        },
+        "solution": {
+            "en": "Apply chlorothalonil or copper fungicides. Remove infected leaves. Practice crop rotation",
+            "hi": "क्लोरोथालोनिल या कॉपर फफूंदनाशक लगाएं। संक्रमित पत्तियों को हटा दें। फसल चक्रण का अभ्यास करें",
+            "pa": "ਕਲੋਰੋਥਾਲੋਨਿਲ ਜਾਂ ਤਾਂਬੇ ਦੇ ਫੰਗੀਸਾਈਡ ਲਗਾਓ। ਸੰਕਰਮਿਤ ਪੱਤੇ ਹਟਾਓ। ਫਸਲ ਚਕਰ ਦਾ ਅਭਿਆਸ ਕਰੋ"
+        }
+    },
+    "tomato_blossom_end_rot_": {
+        "crop": {
+            "en": "Tomato",
+            "hi": "Tomato",
+            "pa": "Tomato"
+        },
+        "name": {
+            "en": "Blossom End Rot ",
+            "hi": "Blossom End Rot ",
+            "pa": "Blossom End Rot "
+        },
+        "keywords": {
+            "en": [
+                "dark",
+                "sunken",
+                "leathery",
+                "bottom",
+                "fruit",
+                "calcium",
+                "deficiency"
+            ],
+            "hi": [
+                "काला",
+                "धँसा",
+                "चमड़े जैसा",
+                "तल",
+                "फल",
+                "कैल्शियम",
+                "कमी"
+            ],
+            "pa": [
+                "ਕਾਲਾ",
+                "ਧਸਿਆ",
+                "ਚਮੜੇ ਵਰਗਾ",
+                "ਤਲ",
+                "ਫਲ",
+                "ਕੈਲਸ਼ੀਅਮ",
+                "ਕਮੀ"
+            ]
+        },
+        "solution": {
+            "en": "Maintain consistent soil moisture. Add calcium carbonate to soil. Avoid excessive nitrogen",
+            "hi": "मिट्टी की नमी बनाए रखें। मिट्टी में कैल्शियम कार्बोनेट मिलाएं। अत्यधिक नाइट्रोजन से बचें",
+            "pa": "ਮਿੱਟੀ ਦੀ ਨਮੀ ਬਨਾਈ ਰੱਖੋ। ਮਿੱਟੀ ਵਿੱਚ ਕੈਲਸ਼ੀਅਮ ਕਾਰਬੋਨੇਟ ਸ਼ਾਮਲ ਕਰੋ। ਜ਼ਿਆਦਾ ਨਾਈਟ੍ਰੋਜਨ ਤੋਂ ਬਚੋ"
+        }
+    },
+    "tomato_leaf_curl_virus_": {
+        "crop": {
+            "en": "Tomato",
+            "hi": "Tomato",
+            "pa": "Tomato"
+        },
+        "name": {
+            "en": "Leaf Curl Virus ",
+            "hi": "Leaf Curl Virus ",
+            "pa": "Leaf Curl Virus "
+        },
+        "keywords": {
+            "en": [
+                "upward",
+                "curling",
+                "stunted",
+                "yellow",
+                "veins",
+                "purple",
+                "whitefly"
+            ],
+            "hi": [
+                "ऊपर की ओर",
+                "कर्लिंग",
+                "अवरुद्ध",
+                "पीला",
+                "नसें",
+                "बैंगनी",
+                "व्हाइटफ्लाई"
+            ],
+            "pa": [
+                "ਉੱਪਰ ਵੱਲ",
+                "ਕਰਲਿੰਗ",
+                "ਰੁਕਿਆ",
+                "ਪੀਲਾ",
+                "ਨਸਾਂ",
+                "ਜਾਮਣੀ",
+                "ਵ੍ਹਾਈਟਫਲਾਈ"
+            ]
+        },
+        "solution": {
+            "en": "Use resistant varieties. Control whiteflies with yellow sticky traps. Remove infected plants",
+            "hi": "प्रतिरोधी किस्मों का उपयोग करें। पीले स्टिकी ट्रैप से व्हाइटफ्लाई को नियंत्रित करें। संक्रमित पौधों को हटा दें",
+            "pa": "ਰੋਧਕ ਕਿਸਮਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਪੀਲੇ ਸਟਿੱਕੀ ਟਰੈਪ ਨਾਲ ਵ੍ਹਾਈਟਫਲਾਈ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰੋ। ਸੰਕਰਮਿਤ ਪੌਦਿਆਂ ਨੂੰ ਹਟਾਓ"
+        }
+    },
+    "tomato_bacterial_spot_": {
+        "crop": {
+            "en": "Tomato",
+            "hi": "Tomato",
+            "pa": "Tomato"
+        },
+        "name": {
+            "en": "Bacterial Spot ",
+            "hi": "Bacterial Spot ",
+            "pa": "Bacterial Spot "
+        },
+        "keywords": {
+            "en": [
+                "small",
+                "dark",
+                "water-soaked",
+                "spots",
+                "yellow",
+                "halo",
+                "crack"
+            ],
+            "hi": [
+                "छोटे",
+                "काले",
+                "पानी-सोखे",
+                "धब्बे",
+                "पीले",
+                "प्रभामंडल",
+                "दरार"
+            ],
+            "pa": [
+                "ਛੋਟੇ",
+                "ਕਾਲੇ",
+                "ਪਾਣੀ-ਸੋਖੇ",
+                "ਧੱਬੇ",
+                "ਪੀਲੇ",
+                "ਹੇਲੋ",
+                "ਦਰਾਰ"
+            ]
+        },
+        "solution": {
+            "en": "Use copper-based bactericides. Practice crop rotation. Use disease-free seeds",
+            "hi": "कॉपर आधारित बैक्टीरिसाइड्स का उपयोग करें। फसल चक्रण का अभ्यास करें। रोग मुक्त बीजों का उपयोग करें। ",
+            "pa": "/ਤਾਂਬੇ-ਅਧਾਰਤ ਬੈਕਟੀਰੀਸਾਈਡਸ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਫਸਲ ਚਕਰ ਦਾ ਅਭਿਆਸ ਕਰੋ। ਬਿਮਾਰੀ-ਮੁਕਤ ਬੀਜ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+        }
+    },
+    "wheat_rust_disease_": {
+        "crop": {
+            "en": "Wheat",
+            "hi": "Wheat",
+            "pa": "Wheat"
+        },
+        "name": {
+            "en": "Rust Disease ",
+            "hi": "Rust Disease ",
+            "pa": "Rust Disease "
+        },
+        "keywords": {
+            "en": [
+                "rust",
+                "spots",
+                "orange",
+                "yellow",
+                "brown",
+                "pustules",
+                "powder",
+                "stripe"
+            ],
+            "hi": [
+                "जंग",
+                "धब्बे",
+                "नारंगी",
+                "पीले",
+                "भूरे",
+                "दाने",
+                "पाउडर",
+                "धारी"
+            ],
+            "pa": [
+                "ਕੁੰਗੀ",
+                "ਧੱਬੇ",
+                "ਸੰਤਰੀ",
+                "ਪੀਲੇ",
+                "ਭੂਰੇ",
+                "ਧੱਫੜ",
+                "ਪਾਊਡਰ",
+                "ਧਾਰੀ"
+            ]
+        },
+        "solution": {
+            "en": "Spray with Mancozeb or Propiconazole fungicide. Use resistant varieties for future planting and remove infected leaves early",
+            "hi": "मैंकोजेब या प्रोपिकोनाज़ोल फफूंदनाशक का छिड़काव करें। भविष्य की रोपाई के लिए प्रतिरोधी किस्मों का उपयोग करें और संक्रमित पत्तियों को जल्दी हटा दें",
+            "pa": "ਮੈਨਕੋਜ਼ੇਬ ਜਾਂ ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ ਉੱਲीਨਾਸ਼ਕ ਨਾਲ ਸਪਰੇਅ ਕਰੋ। ਭਵਿੱਖ ਦੀ ਬਿਜਾਈ ਲਈ ਰੋਧਕ ਕਿਸਮਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ ਅਤੇ ਸੰਕਰਮਿਤ ਪੱਤਿਆਂ ਨੂੰ ਜਲਦੀ ਹਟਾ ਦਿਓ।"
+        }
+    }
+}

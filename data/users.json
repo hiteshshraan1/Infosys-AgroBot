@@ -1,0 +1,14 @@
+{
+    "hitesh ": {
+        "password": "hi",
+        "role": "Farmer"
+    },
+    "hero": {
+        "password": "hi",
+        "role": "Admin"
+    },
+    "spiderman": {
+        "password": "hi",
+        "role": "Admin"
+    }
+}

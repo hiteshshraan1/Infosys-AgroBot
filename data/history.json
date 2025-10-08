@@ -1,0 +1,56 @@
+[
+    {
+        "user": "hero",
+        "disease": "Powdery Mildew",
+        "language": "English",
+        "solution": "Apply sulfur-based fungicide, improve air circulation, and remove affected leaves"
+    },
+    {
+        "user": "hitesh ",
+        "disease": "Powdery Mildew",
+        "language": "हिन्दी (Hindi)",
+        "solution": "सल्फर आधारित फफूंदनाशक का छिड़काव करें, हवा का प्रवाह सुधारें, और प्रभावित पत्तियों को हटा दें"
+    },
+    {
+        "user": "hero",
+        "disease": "Bacterial Spot ",
+        "language": "English",
+        "solution": "Use copper-based bactericides. Practice crop rotation. Use disease-free seeds"
+    },
+    {
+        "user": "hero",
+        "disease": "Bacterial Spot ",
+        "language": "ਪੰਜਾਬੀ (Punjabi)",
+        "solution": "/ਤਾਂਬੇ-ਅਧਾਰਤ ਬੈਕਟੀਰੀਸਾਈਡਸ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਫਸਲ ਚਕਰ ਦਾ ਅਭਿਆਸ ਕਰੋ। ਬਿਮਾਰੀ-ਮੁਕਤ ਬੀਜ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    },
+    {
+        "user": "hero",
+        "disease": "Early Blight ",
+        "language": "हिन्दी (Hindi)",
+        "solution": "क्लोरोथालोनिल या कॉपर फफूंदनाशक लगाएं। संक्रमित पत्तियों को हटा दें। फसल चक्रण का अभ्यास करें"
+    },
+    {
+        "user": "hero",
+        "disease": "Powdery Mildew",
+        "language": "ਪੰਜਾਬੀ (Punjabi)",
+        "solution": "ਸਲਫਰ-ਅਧਾਰਤ ਉੱਲੀਨਾਸ਼ਕ ਦੀ ਵਰਤੋਂ ਕਰੋ, ਹਵਾ ਦੇ ਗੇੜ ਵਿੱਚ ਸੁਧਾਰ ਕਰੋ, ਅਤੇ ਪ੍ਰਭਾਵਿਤ ਪੱਤਿਆਂ ਨੂੰ ਹਟਾ ਦਿਓ"
+    },
+    {
+        "user": "hero",
+        "disease": "Early Blight ",
+        "language": "English",
+        "solution": "Apply chlorothalonil or copper fungicides. Remove infected leaves. Practice crop rotation"
+    },
+    {
+        "user": "spiderman",
+        "disease": "Early Blight ",
+        "language": "हिन्दी (Hindi)",
+        "solution": "क्लोरोथालोनिल या कॉपर फफूंदनाशक लगाएं। संक्रमित पत्तियों को हटा दें। फसल चक्रण का अभ्यास करें"
+    },
+    {
+        "user": "spiderman",
+        "disease": "Powdery Mildew",
+        "language": "ਪੰਜਾਬੀ (Punjabi)",
+        "solution": "ਸਲਫਰ-ਅਧਾਰਤ ਉੱਲੀਨਾਸ਼ਕ ਦੀ ਵਰਤੋਂ ਕਰੋ, ਹਵਾ ਦੇ ਗੇੜ ਵਿੱਚ ਸੁਧਾਰ ਕਰੋ, ਅਤੇ ਪ੍ਰਭਾਵਿਤ ਪੱਤਿਆਂ ਨੂੰ ਹਟਾ ਦਿਓ"
+    }
+]
